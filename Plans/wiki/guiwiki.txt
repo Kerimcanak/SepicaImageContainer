@@ -1,0 +1,30 @@
+One of its features is a GUI for encrypting and decrypting images. The GUI will be 
+implemented in Python using the PySimpleGUI library. The GUI not just be used to encrypt and 
+decrypt images but also to protect the stored images, make images accessible through a GUI and
+will give user to indefinitely delete the images when they are no longer needed.
+
+Navigation:
+
+-[Container tray](containertraywiki.txt)
+-[EncryptionButton](encryptionwiki.txt)
+-[DecryptionButton](decryptionwiki.txt)
+-[DeleteButton](deletebuttonwiki.txt)
+-[DownloadButton](downloadbuttonwiki.txt)
+-[DragandDrop](draganddropwiki.txt)
+-[ClickAccess](clickaccesswiki.txt)
+
+The GUI will have a container where the images will be stored. The GUI will have a button
+to encrypt the images. The GUI will have a button to decrypt the images. The GUI will have
+a button to delete the images. The GUI will have a container where the images will be stored.
+
+The container will work as a list of images. The images will be stored in the container and can be
+accessed by the user. The user will have a click-access and drag and drop options for the images.
+
+After images are encrypted they can only be accessed through the GUI, which is also protected 
+by a password. The GUI will have a button to decrypt the images. After decryption the images will
+be downloaded to the user's computer.
+
+The GUI will have a button to delete the images. The images will be deleted from the container and
+from the GUI. The images will be deleted from the user's computer.
+
+The upload proccess
