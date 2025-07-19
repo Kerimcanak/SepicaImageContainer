@@ -1,3 +1,25 @@
 Also, one of the features is a backend for encrypting and decrypting images. The CLI will be 
 implemented in Python using the argparse library. The CLI will be used to encrypt and 
 decrypt images.
+
+The CLI will have a container where the images will be stored. The CLI will have a button
+to encrypt the images. The CLI will have a button to decrypt the images. The container, or storage
+will act like as a compressed file or a folder that can only be accessed through password protected
+GUI.
+
+CLI also will have a function to delete the images from the container. This will me implemented with 
+Python using the os library. The images will be deleted indefinitely from the container, even backup
+programs will not be able to access the images. The deleted images will be deleted from the user's 
+computer.
+
+The CLI will have a function to download the images to the user's computer. This will be implemented
+with Python using the shutil library. The images will be downloaded to the user's computer. The images
+will be downloaded indefinitely, even backup programs will not be able to access the images. The images
+will be downloaded to the user's computer.
+
+The CLI will have a function to upload the images to the container. This will be implemented with
+Python using the shutil library. The images will be uploaded to the container. The images will be
+uploaded until they are deleted, even backup programs will not be able to access the images. 
+The images will be uploaded to the container.
+
+All of these functions will be visible to the user through the GUI.
