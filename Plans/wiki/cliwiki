@@ -1,0 +1,3 @@
+Also, one of the features is a backend for encrypting and decrypting images. The CLI will be 
+implemented in Python using the argparse library. The CLI will be used to encrypt and 
+decrypt images.
