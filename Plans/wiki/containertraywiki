@@ -1,0 +1,6 @@
+The GUI will have a container where the images will be stored. The GUI will have a button
+to encrypt the images. The GUI will have a button to decrypt the images. The GUI will have
+a button to delete the images. The GUI will have a container where the images will be stored.
+
+The container will work as a list of images. The images will be stored in the container and can be
+accessed by the user. The user will have a click-access and drag and drop options for the images.

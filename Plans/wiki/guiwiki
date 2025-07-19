@@ -3,9 +3,11 @@ implemented in Python using the PySimpleGUI library. The GUI not just be used to
 decrypt images but also to protect the stored images, make images accessible through a GUI and
 will give user to indefinitely delete the images when they are no longer needed.
 
+Figma will be used to design the GUI.
+
 Navigation:
 
--[Container tray](containertraywiki.txt)
+-[Container tray](containertraywiki)
 -[EncryptionButton](encryptionwiki.txt)
 -[DecryptionButton](decryptionwiki.txt)
 -[DeleteButton](deletebuttonwiki.txt)
