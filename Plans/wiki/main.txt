@@ -1,0 +1,26 @@
+Welcome to the main page of the Sepica Image Container project.
+
+This project aims to create an app that can be used to encrypt images and store them in an 
+image container in a computer environment. It will help you organize your images and
+encrypt them to protect them from unauthorized access.
+
+As of July 19, 2025, this project is a work in progress.
+
+Navigation:
+
+-[GUI](guiwiki.txt)
+-Backend
+
+One of its features is a GUI for encrypting and decrypting images. The GUI will be 
+implemented in Python using the PySimpleGUI library. The GUI will be used to encrypt and 
+decrypt images.
+
+Also, one of the features is a backend for encrypting and decrypting images. The CLI will be 
+implemented in Python using the argparse library. The CLI will be used to encrypt and 
+decrypt images.
+
+The GUI will have a container where the images will be stored. The GUI will have a button
+to encrypt the images. The GUI will have a button to decrypt the images. The GUI will have
+a button to delete the images. The GUI will have a container where the images will be stored.
+
+The container 
