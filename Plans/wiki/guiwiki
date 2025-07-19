@@ -8,12 +8,12 @@ Figma will be used to design the GUI.
 Navigation:
 
 -[Container tray](containertraywiki)
--[EncryptionButton](encryptionwiki.txt)
--[DecryptionButton](decryptionwiki.txt)
--[DeleteButton](deletebuttonwiki.txt)
--[DownloadButton](downloadbuttonwiki.txt)
--[DragandDrop](draganddropwiki.txt)
--[ClickAccess](clickaccesswiki.txt)
+-[EncryptionButton](encryptionwiki)
+-[DecryptionButton](decryptionwiki)
+-[DeleteButton](deletebuttonwiki)
+-[DownloadButton](downloadbuttonwiki)
+-[DragandDrop](draganddropwiki)
+-[ClickAccess](clickaccesswiki)
 
 The GUI will have a container where the images will be stored. The GUI will have a button
 to encrypt the images. The GUI will have a button to decrypt the images. The GUI will have
