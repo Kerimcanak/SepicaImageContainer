@@ -6,7 +6,7 @@ import io # For handling image data in memory as bytes
 from PIL import Image, ImageTk, UnidentifiedImageError
 
 # Import the backend module
-from sepica_backend import SepicaBackend, IMAGE_STORAGE_DIR
+from sepica_core import SepicaBackend, IMAGE_STORAGE_DIR
 
 APP_NAME = "Sepica Image Container"
 APP_ICON_PATH = "main program.png" # Path to your logo image
