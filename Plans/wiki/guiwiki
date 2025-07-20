@@ -28,4 +28,5 @@ be downloaded to the user's computer.
 The GUI will have a button to delete the images. The images will be deleted from the container and
 from the GUI. The images will be deleted from the user's computer.
 
-The upload proccess
+The upload proccess will be the same as the download proccess. The images will be uploaded to the
+container. Images will be dealt in the CLI. 

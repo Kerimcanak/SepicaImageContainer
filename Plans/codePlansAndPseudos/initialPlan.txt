@@ -1,0 +1,11 @@
+Lets make a Python project. 
+in this Python project there will be a GUI,
+the program only can be opened through a password, which will set by the user in the first opening and can later be changed after program has opened in the File... -> Passwords section
+in the GUI there will be things such as: title bar (minimize, close, name of app (Sepica Image Container), logo), 
+the container in middle with title "Images", 
+container will store the images by either through the upload button on the bottom or the drag and drop, 
+image will be encrypted immediately as it had been placed inside the tray, 
+the container will act like a zip folder or a cloud storage, when clicked user can display the images through the program
+when selected user will have two choices, one: open the image two: delete the image. The buttons on the bottom will decide this.
+when file is deleted the file will be indefinitely deleted as there will be no way to access it through any recovery programs
+there will be also third "download..." option, which will allow user to download

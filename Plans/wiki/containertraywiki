@@ -4,3 +4,13 @@ a button to delete the images. The GUI will have a container where the images wi
 
 The container will work as a list of images. The images will be stored in the container and can be
 accessed by the user. The user will have a click-access and drag and drop options for the images.
+
+A simple folder symbol on the left of the image names will represent the images in the tray.
+By clicking on the folder symbol the user will be able to display the images in the tray.
+
+By deleting the images the user will be able to delete the images from the tray. When images are deleted
+the images will be deleted from the user's computer and also will no longer be accessible on the tray.
+
+By clicking on the images the user will be able to download the images to the user's computer.
+Download button will be enabled when an image is selected. The user will be able to download the
+selected image to the user's computer.
